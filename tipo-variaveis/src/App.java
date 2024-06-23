@@ -16,6 +16,17 @@ public class App {
         // VALOR_DE_PI = 3.41  Dever ser em caixa alta.   
         System.out.println(VALOR_DE_PI); 
 
+        // Operadores atribuições
+     char sexo = 's';
+     int idade = 22; 
+     boolean doardoOrgao = true; 
+     Date dataNascimento = new Date();
+    
+     // Operadores atimeticos
+     // + , - , * , / . % 
+     // O operador de  texto = concatenação  + , junta dois textos.
+
+     
 
 
     }
