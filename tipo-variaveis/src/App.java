@@ -7,7 +7,14 @@ public class App {
         int numeroNormal = numeroCurto;
         short numeroCurto2 = (short) numeroNormal;
          
+        int numero = 1;
+        numero = 2;
+        System.out.println(numero);
 
+       final double VALOR_DE_PI = 3.14;
+        
+        // VALOR_DE_PI = 3.41  Dever ser em caixa alta.   
+        System.out.println(VALOR_DE_PI); 
 
 
 
