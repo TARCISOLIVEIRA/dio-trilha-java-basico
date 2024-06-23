@@ -22,11 +22,11 @@ public class App {
      boolean doardoOrgao = true; 
      Date dataNascimento = new Date();
     
-     // Operadores atimeticos
+     // Operadores aritmeticos
      // + , - , * , / . % 
      // O operador de  texto = concatenação  + , junta dois textos.
 
-     
+
 
 
     }
